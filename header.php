@@ -68,7 +68,7 @@
               <a href="index.php">Home</a>
               
             </li>
-            <li><a href="shop.php">Account</a></li>
+            <li><a href="#">Account</a></li>
             <li><a href="shop.php">Shop</a></li>
             <li><a href="#">Catalogue</a></li>
             <li><a href="#">New Arrivals</a></li>
