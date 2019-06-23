@@ -1,0 +1,6 @@
+/*
+
+The database configuration goes here
+The database name should be market
+
+*/

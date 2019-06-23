@@ -68,7 +68,13 @@
               <a href="index.php">Home</a>
               
             </li>
-            <li><a href="#">Account</a></li>
+            <li class = "has-children"><a href="dashboard.php">Account</a>
+            <ul class="dropdown">
+                <li><a href="login.php">Login</a></li>
+                <li><a href="register.php">Register</a></li>
+                
+              </ul>
+          </li>
             <li><a href="shop.php">Shop</a></li>
             <li><a href="#">Catalogue</a></li>
             <li><a href="#">New Arrivals</a></li>
