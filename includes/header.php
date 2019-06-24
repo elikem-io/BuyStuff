@@ -8,16 +8,16 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mukta:300,400,700"> 
     <link rel="stylesheet" href="fonts/icomoon/style.css">
 
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/jquery-ui.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/magnific-popup.css">
+    <link rel="stylesheet" href="../css/jquery-ui.css">
+    <link rel="stylesheet" href="../css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../css/owl.theme.default.min.css">
 
 
-    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="../css/aos.css">
 
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
     
   </head>
 
@@ -30,7 +30,7 @@
           <div class="row align-items-center">
 
             <div class="col-6 col-md-4 order-2 order-md-1 site-search-icon text-left">
-              <form action="" class="site-block-top-search">
+              <form action="search_result.php" class="site-block-top-search" enctype = "multipart/form-data">
                 <span class="icon icon-search2"></span>
                 <input type="text" class="form-control border-0" placeholder="Search">
               </form>
@@ -45,7 +45,7 @@
             <div class="col-6 col-md-4 order-3 order-md-3 text-right">
               <div class="site-top-icons">
                 <ul>
-                  <li><a href="#"><span class="icon icon-person"></span></a></li>
+                  <li><a href="pages/dashboard.php"><span class="icon icon-person"></span></a></li>
                   <li><a href="#"><span class="icon icon-heart-o"></span></a></li>
                   <li>
                     <a href="cart.php" class="site-cart">
@@ -68,18 +68,18 @@
               <a href="index.php">Home</a>
               
             </li>
-            <li class = "has-children"><a href="dashboard.php">Account</a>
+            <li class = "has-children"><a href="pages/dashboard.php">Account</a>
             <ul class="dropdown">
-                <li><a href="login.php">Login</a></li>
-                <li><a href="register.php">Register</a></li>
+                <li><a href="pages/login.php">Login</a></li>
+                <li><a href="pages/register.php">Register</a></li>
                 
               </ul>
           </li>
-            <li><a href="shop.php">Shop</a></li>
+            <li><a href="page/shop.php">Shop</a></li>
             <li><a href="#">Catalogue</a></li>
             <li><a href="#">New Arrivals</a></li>
-            <li ><a href="about.php">About</a> </li>
-            <li><a href="contact.php">Contact</a></li>
+            <li ><a href="pages/about.php">About</a> </li>
+            <li><a href="pages/contact.php">Contact</a></li>
           </ul>
         </div>
       </nav>

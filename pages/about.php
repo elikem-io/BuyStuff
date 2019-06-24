@@ -1,5 +1,5 @@
 <?php
-include('includes/header.php');
+include('../includes/header.php');
 
 ?>
 
@@ -17,7 +17,7 @@ include('includes/header.php');
           <div class="col-md-6">
             <div class="block-16">
               <figure>
-                <img src="images/blog_1.jpg" alt="Image placeholder" class="img-fluid rounded">
+                <img src="../images/blog_1.jpg" alt="Image placeholder" class="img-fluid rounded">
                 <a href="https://vimeo.com/channels/staffpicks/93951774" class="play-button popup-vimeo"><span class="ion-md-play"></span></a>
 
               </figure>
@@ -51,7 +51,7 @@ include('includes/header.php');
             <div class="block-38 text-center">
               <div class="block-38-img">
                 <div class="block-38-header">
-                  <img src="images/person_1.jpg" alt="Image placeholder" class="mb-4">
+                  <img src="../images/person_1.jpg" alt="Image placeholder" class="mb-4">
                   <h3 class="block-38-heading h4">Elizabeth Graham</h3>
                   <p class="block-38-subheading">CEO/Co-Founder</p>
                 </div>
@@ -65,7 +65,7 @@ include('includes/header.php');
             <div class="block-38 text-center">
               <div class="block-38-img">
                 <div class="block-38-header">
-                  <img src="images/person_2.jpg" alt="Image placeholder" class="mb-4">
+                  <img src="../images/person_2.jpg" alt="Image placeholder" class="mb-4">
                   <h3 class="block-38-heading h4">Jennifer Greive</h3>
                   <p class="block-38-subheading">Co-Founder</p>
                 </div>
@@ -79,7 +79,7 @@ include('includes/header.php');
             <div class="block-38 text-center">
               <div class="block-38-img">
                 <div class="block-38-header">
-                  <img src="images/person_3.jpg" alt="Image placeholder" class="mb-4">
+                  <img src="../images/person_3.jpg" alt="Image placeholder" class="mb-4">
                   <h3 class="block-38-heading h4">Patrick Marx</h3>
                   <p class="block-38-subheading">Marketing</p>
                 </div>
@@ -93,7 +93,7 @@ include('includes/header.php');
             <div class="block-38 text-center">
               <div class="block-38-img">
                 <div class="block-38-header">
-                  <img src="images/person_4.jpg" alt="Image placeholder" class="mb-4">
+                  <img src="../images/person_4.jpg" alt="Image placeholder" class="mb-4">
                   <h3 class="block-38-heading h4">Mike Coolbert</h3>
                   <p class="block-38-subheading">Sales Manager</p>
                 </div>
@@ -145,5 +145,5 @@ include('includes/header.php');
     
    <?php
 
-include('includes/footer.php');   ?>
+include('../includes/footer.php');   ?>
   
