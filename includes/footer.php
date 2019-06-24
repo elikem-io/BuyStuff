@@ -64,9 +64,11 @@
         <div class="row pt-5 mt-5 text-center">
           <div class="col-md-12">
             <p>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" class="text-primary">Colorlib</a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            
+            Copyright &copy; 2019 All rights reserved | BuyStuff is made  by
+             <a href="https://twitter.com/localhost_101" target="_blank" class="text-primary">One boy like that</a> &
+             <a href="https://twitter.com/likem_io" target="_blank" class="text-primary">MONTSERRAT</a>
+            
             </p>
           </div>
           
