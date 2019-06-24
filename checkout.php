@@ -1,5 +1,5 @@
 <?php
-include('header.php');
+include('includes/header.php');
 ?>
 
     <div class="bg-light py-3">
@@ -279,6 +279,6 @@ include('header.php');
     </div>
 
     <?php
-include('footer.php');
+include('includes/footer.php');
 ?>
   
