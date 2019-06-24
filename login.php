@@ -27,17 +27,19 @@ include('includes/header.php');
         
           <div class="col-xs-4">
             <label for="ex3">Email:</label>
-            <input class="form-control" id="ex3" type="text">
+            <input class="form-control" id="ex3" type="text" placeholder = "Email goers here">
           </div>
           
       <p> </p>
 
         <div class="col-xs-4">
             <label for="ex3">Password</label>
-            <input class="form-control" id="ex3" type="text">
+            <input class="form-control" id="ex3" type="text" placeholder = "Password">
           </div>
           <span> </span> <br>
-          <input type="submit" name = "login" class="btn btn-info" value="login">
+         <p> <input type="submit" name = "login" class="btn btn-info" value="login">
+
+          &nbsp; &nbsp; &nbsp; &nbsp; New Here? <a href = "register.php">  Register Here</a> </p>
      </div>
      <br>
 </form>
