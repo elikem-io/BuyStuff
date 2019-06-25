@@ -7,10 +7,10 @@ include('includes/header.php');
 <div class="bg-light py-3">
       <div class="container">
         <div class="row">
-          <div class="col-md-12 mb-0"><a href="index.php">Home</a> <span class="mx-2 mb-0">/</span> <strong class="text-black">Login</strong></div>
+          <div class="col-md-12 mb-0"><a href="register.php">Register</a> <span class="mx-2 mb-0">/</span> <strong class="text-black">Login</strong></div>
         </div>
       </div>
-    </div>  
+    </div>   
     <div class="site-section">
       <div class="container">
         <div class="row">
@@ -21,8 +21,6 @@ include('includes/header.php');
           <div  class="col-md-6 offset-sm-1 align-items-center">
 
 <form class = "justify-content-center">
-
-
 
         
           <div class="col-xs-4">
@@ -37,7 +35,7 @@ include('includes/header.php');
             <input class="form-control" id="ex3" type="text">
           </div>
           <span> </span> <br>
-          <input type="submit" name = "login" class="btn btn-info" value="login">
+          <button type="submit" name = "login" class="btn btn-info">Register</button>
      </div>
      <br>
 </form>
