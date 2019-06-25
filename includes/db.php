@@ -1,3 +1,5 @@
+
+
 <?php
 
 //PDO database connection
@@ -25,5 +27,3 @@ class Db{
       }
     }
 }
-
-
